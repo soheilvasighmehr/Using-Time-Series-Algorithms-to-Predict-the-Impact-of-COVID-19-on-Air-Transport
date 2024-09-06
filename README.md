@@ -1,1 +1,8 @@
-# Using-Time-Series-Algorithms-to-Predict-the-Impact-of-COVID-19-on-Air-Transport
+# Using Time Series Algorithms to Predict the Impact of COVID 19 on Air Transport
+June 2024
+
+In this project, the method for separating the impacts of COVID-19 on passenger air transport involves a structured approach to understand how different factors affected travel demand. The first step is to segment passengers based on their characteristics such as age and travel purpose. This segmentation allows for a more nuanced understanding of how various groups were impacted differently by the pandemic. Next, predictive models are selected and applied to forecast demand for each segment under two scenarios: "Business as Usual," which represents a pre-pandemic environment with normal travel patterns, and "Pandemic," which accounts for the travel restrictions and altered demand due to the COVID-19 crisis
+
+To quantify the impacts, the project calculates three key measures: the twofold impact, supply restriction impact, and demand depression impact. The twofold impact assesses the overall reduction in demand by comparing the baseline predictions with actual data. The supply restriction impact measures the reduction in demand attributed specifically to travel restrictions by comparing the baseline scenario with the pandemic scenario. Finally, the demand depression impact evaluates the reduction in demand caused by a decreased desire or need to travel, isolating this factor from the effects of supply restrictions. By applying these methods and analyzing the results, the project provides insights into how airlines can strategically manage recovery efforts and tailor their approaches to different passenger segments.
+
+
